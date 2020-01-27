@@ -16,7 +16,7 @@ install_requires = [
     'reedsolo>=0.3',
     'scipy>=1.1.0',
     'torch==1.0.0',
-    'torchvision==0.2.1',
+    'torchvision==0.5.0',
     'tqdm>=4.28.1',
     'numpy>=1.15.4',
 ]
